@@ -1,0 +1,20 @@
+.container-produtos {
+    display: flex;
+}
+
+ul {
+    list-style: none;
+}
+
+.tabela-produtos {
+    padding-right: 2.7rem ;
+}
+
+.borda {
+    padding-left: 1rem;
+    border-left: solid 3px #000;
+}
+
+.borda-baixo {
+    border-bottom: solid 3px #000;
+}

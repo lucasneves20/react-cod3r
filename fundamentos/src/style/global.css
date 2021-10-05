@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Oswald;
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+h2, h3 {
+    margin: 0;
+}
+
+.container-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    margin: 0 1rem;
+}
